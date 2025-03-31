@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Project/Reiting/ServerLibs/Worker/bin/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

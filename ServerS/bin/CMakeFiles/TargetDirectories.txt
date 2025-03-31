@@ -1,0 +1,3 @@
+C:/Project/Reiting/ServerS/bin/CMakeFiles/ServerS.dir
+C:/Project/Reiting/ServerS/bin/CMakeFiles/ALL_BUILD.dir
+C:/Project/Reiting/ServerS/bin/CMakeFiles/ZERO_CHECK.dir

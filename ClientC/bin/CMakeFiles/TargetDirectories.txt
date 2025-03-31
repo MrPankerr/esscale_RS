@@ -1,0 +1,4 @@
+C:/Project/Reiting/ClientC/bin/CMakeFiles/ClientW.dir
+C:/Project/Reiting/ClientC/bin/CMakeFiles/ClientE.dir
+C:/Project/Reiting/ClientC/bin/CMakeFiles/ALL_BUILD.dir
+C:/Project/Reiting/ClientC/bin/CMakeFiles/ZERO_CHECK.dir

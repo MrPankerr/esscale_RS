@@ -1,0 +1,10 @@
+^C:\PROJECT\REITING\SERVERS\BIN\CMAKEFILES\D029EB99C19026CB92986B3613F2D3A3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Project/Reiting/ServerS -BC:/Project/Reiting/ServerS/bin --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Project/Reiting/ServerS/bin/ServerS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
